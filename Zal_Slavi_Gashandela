@@ -1,0 +1,24 @@
+<html>
+<title>Эстетеика</title>
+    <h1>Эстетика</h1>
+        <p>Мы хотим сделать из старого лица новое с большой осторожностью.</p>
+    <h2>Наши процедуры</h2>
+            <table style="background-color:yellow;">
+                <tr style="border:1px solid blue;border-collapse:collapse;">
+                    <td style="background-color:yellow;">процедуры</td>
+                    <td style="background-color:yellow;">кем сделана</td>
+                    <td style="background-color:yellow;">стоимость</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid blue;border-collapse:collapse;">Botex</td>
+                    <td style="border:1px solid blue;border-collapse:collapse;">Маша Иванова</td>
+                    <td style="border:1px solid blue;border-collapse:collapse;">20$</td>
+                </tr>
+                <tr style="border:1px solid blue;border-collapse:collapse;">
+                    <td style="border:1px solid blue;border-collapse:collapse;">Peeling</td>
+                    <td style="border:1px solid blue;border-collapse:collapse;">Арина Жилина</td>
+                    <td style="border:1px solid blue;border-collapse:collapse;">20$</td>
+                </tr>
+         </table>
+             
+</html>    
